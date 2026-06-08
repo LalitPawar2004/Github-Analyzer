@@ -230,9 +230,3 @@ curl http://localhost:3000/api/profiles
 # Get single profile
 curl http://localhost:3000/api/profiles/torvalds
 ```
-
----
-
-## 📝 License
-
-This project is created as part of a Node.js Intern assignment.
